@@ -1,0 +1,21 @@
+Latitude,Longitude,Approval Status,Building Type,Construction Year,Square Footage,Number of Stories,Lot Size,Zoning,Amenities,Condition
+50.9721,4.2083,Approved,Residential,1991,2300,2,4800,R-1,None,Fair
+51.1432,5.3168,Pending,Commercial,2013,12000,3,13000,C-3,"Parking, retail",Good
+50.7337,3.6112,Denied,Industrial,1968,17000,4,17000,M-1,"Warehouse, manufacturing",Poor
+50.8169,4.3345,Approved,Mixed-use,2023,5800,5,5800,B-3,"Retail, office, residential",Good
+51.1028,5.4413,Pending,Residential,2009,3400,3,6800,R-2,Swimming pool,Fair
+50.7644,4.1375,Approved,Commercial,1994,7800,2,7800,C-2,"Parking, retail",Good
+51.1134,5.231,Denied,Industrial,1979,17000,3,17000,M-2,"Warehouse, manufacturing",Poor
+50.8856,4.0159,Approved,Mixed-use,2019,6400,4,6400,B-2,"Retail, office",Good
+51.0363,5.0671,Pending,Residential,1997,2700,2,5400,R-2,None,Fair
+50.8634,4.4107,Approved,Commercial,1986,8800,3,8800,C-1,"Parking, office",Good
+50.8504,4.3567,Approved,Residential,1995,2500,2,5000,R-2,"Swimming pool, gym",Good
+51.2087,5.1214,Pending,Commercial,2010,10000,3,10000,C-3,"Parking, security",Fair
+50.7847,3.539,Denied,Industrial,1980,20000,4,20000,M-1,"Loading dock, warehouse",Poor
+50.8781,4.2773,Approved,Mixed-use,2020,5000,5,5000,B-3,"Retail, office, residential",Good
+51.0507,5.3849,Pending,Residential,2005,3000,3,6000,R-1,,Fair
+50.8093,4.1418,Approved,Commercial,1990,8000,2,8000,C-2,"Parking, retail",Good
+51.1604,5.2438,Denied,Industrial,1975,15000,3,15000,M-2,"Warehouse, manufacturing",Poor
+50.9216,4.0683,Approved,Mixed-use,2015,6000,4,6000,B-2,"Retail, office",Good
+51.0169,5.1096,Pending,Residential,2000,2800,2,5500,R-2,,Fair
+50.8902,4.3731,Approved,Commercial,1985,9000,3,9000,C-1,"Parking, office",Good
